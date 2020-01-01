@@ -1,4 +1,4 @@
-# Heatmap of Interest
+# EYEINOMERCH
 This documentation covers the scripts used to create a person's heatmap of interest (what they find the most and least interesting in their field of view).
 
 ### How it Works
