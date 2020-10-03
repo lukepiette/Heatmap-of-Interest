@@ -18,4 +18,3 @@ After mapping, we squish the 3D array image into a 1D array for the CNC plotter.
 5. Stare at the image for as long as you'd like (10 min is sufficient). Look around at objects that interest you. If there is food displayed, imagine yourself eating each food.
 6. Once done, ctrl-c the eyetrack.sh terminal then ctrl-c the collect.py terminal. It must be done in that order.
 7. Run EXODIA.py - the mapped image will appear as data/result.jpg
-8. 
